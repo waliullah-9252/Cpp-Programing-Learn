@@ -1,0 +1,10 @@
+Name: Rahim Uddin
+Roll No: 14
+Class: 10
+Section: A
+
+
+Name: Karim Gazi
+Roll No: 33
+Class: 10
+Section: B
